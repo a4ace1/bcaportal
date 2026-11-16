@@ -95,10 +95,17 @@ Contributions are welcome. If you'd like to add notes, fix bugs, or suggest feat
 4. Open a pull request
 
 ---
+## License & Copyright
 
-## 📄 License
+Copyright (c) 2026 Abubakar (ACE)
 
-This project is open source. Add your preferred license MIT
+Licensed under the Mozilla Public License 2.0.
+
+You are free to use, modify, and distribute
+this project under the terms of MPL-2.0.
+
+Original copyright notices must be preserved.
+
 
 ---
 
