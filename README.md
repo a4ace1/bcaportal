@@ -8,6 +8,7 @@ A dark-themed, terminal-inspired study hub for BCA students — built to make fi
 Status
 Made with
 
+
 ---
 
 ✨ Features
@@ -18,7 +19,8 @@ Made with
 - Typing Speed Test — a built-in mini-game to kill time productively
 - BCA Quiz — quick self-test quiz covering core BCA subjects
 - Floating Music Player — persistent lo-fi/study music player that follows you across pages
-- Live Visit Counter — real visitor count powered by "CounterAPI" (https://counterapi.dev)
+- Live Visit Counter — real visitor count powered by CounterAPI
+
 
 ---
 
@@ -28,35 +30,38 @@ Made with
 - Hosting: GitHub Pages
 - Visit tracking: CounterAPI
 
+
 ---
 
 📂 Project Structure
 
-bca-notes-portal/  
-├── index.html  
-├── css/  
-│   └── style.css  
-├── js/  
-│   └── script.js  
-├── assets/  
-│   ├── images/  
-│   └── audio/  
-├── notes/  
-│   └── ...subject-wise resources  
-└── README.md  
+bca-notes-portal/    
+├── index.html    
+├── css/    
+│   └── style.css    
+├── js/    
+│   └── script.js    
+├── assets/    
+│   ├── images/    
+│   └── audio/    
+├── notes/    
+│   └── ...subject-wise resources    
+└── README.md
+
 
 ---
 
 🚀 Getting Started
 
 1. Clone the repo
-   git clone https://github.com/a4ace1/bcaportal.git  
-cd bcaportal  
-2. Open "index.html" directly in a browser, or serve it locally:
-   python3 -m http.server 8000  
-3. Visit "http://localhost:8000"
+git clone https://github.com/a4ace1/bcaportal.git
+   cd a4ace_1
+2. Open index.html directly in a browser, or serve it locally:
+   python3 -m http.server 8000
+3. Visit http://localhost:8000
 
 No build tools or dependencies required — it's a static site.
+
 
 ---
 
@@ -68,6 +73,7 @@ No build tools or dependencies required — it's a static site.
 - Take a break with the typing test or quiz
 - Music player keeps playing as you navigate between sections
 
+
 ---
 
 🗺️ Roadmap / Future Plans
@@ -78,6 +84,7 @@ No build tools or dependencies required — it's a static site.
 - [ ] Mobile responsiveness improvements
 - [ ] Dark/light theme toggle
 
+
 ---
 
 🤝 Contributing
@@ -85,9 +92,10 @@ No build tools or dependencies required — it's a static site.
 Contributions are welcome. If you'd like to add notes, fix bugs, or suggest features:
 
 1. Fork the repo
-2. Create a branch ("git checkout -b feature/your-feature")
+2. Create a branch (git checkout -b feature/your-feature)
 3. Commit your changes
 4. Open a pull request
+
 
 ---
 
@@ -102,8 +110,11 @@ this project under the terms of MPL-2.0.
 
 Original copyright notices must be preserved.
 
+
 ---
 
 👤 Author
 
 Built by Ace — BCA student, Al-Ameen Institute of Information Science, Bengaluru.
+
+Bro i renamed my repository help me out change all the Occurance of a4ace_1 to bcaportal
