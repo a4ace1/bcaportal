@@ -115,6 +115,4 @@ Original copyright notices must be preserved.
 
 👤 Author
 
-Built by Ace — BCA student, Al-Ameen Institute of Information Science, Bengaluru.
-
-Bro i renamed my repository help me out change all the Occurance of a4ace_1 to bcaportal
+Built by Ace — BCA student.
