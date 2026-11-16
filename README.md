@@ -2,10 +2,11 @@ BCA Notes Portal
 
 A dark-themed, terminal-inspired study hub for BCA students — built to make finding notes, resources, and roadmap guidance feel less like digging through scattered PDFs and more like using an actual tool.
 
-🔗 Live site: "https://a4ace1.github.io/bcaportal/" (https://a4ace1.github.io/bcaportal/)
+🔗 Live site: [a4ace1.github.io/bcaportal]
+(https://a4ace1.github.io/bcaportal/)
 
-"Status" (https://img.shields.io/badge/status-active-brightgreen)
-"Made with" (https://img.shields.io/badge/made%20with-HTML%2FCSS%2FJS-crimson)
+Status
+Made with
 
 ---
 
@@ -31,32 +32,28 @@ A dark-themed, terminal-inspired study hub for BCA students — built to make fi
 
 📂 Project Structure
 
-bcaportal/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   ├── images/
-│   └── audio/
-├── notes/
-│   └── ...subject-wise resources
-└── README.md
+bca-notes-portal/  
+├── index.html  
+├── css/  
+│   └── style.css  
+├── js/  
+│   └── script.js  
+├── assets/  
+│   ├── images/  
+│   └── audio/  
+├── notes/  
+│   └── ...subject-wise resources  
+└── README.md  
 
 ---
 
 🚀 Getting Started
 
-1. Clone the repository:
-   
-   git clone https://github.com/a4ace1/bcaportal.git
-cd bcaportal
-
+1. Clone the repo
+   git clone https://github.com/a4ace1/bcaportal.git  
+cd bcaportal  
 2. Open "index.html" directly in a browser, or serve it locally:
-   
-   python3 -m http.server 8000
-
+   python3 -m http.server 8000  
 3. Visit "http://localhost:8000"
 
 No build tools or dependencies required — it's a static site.
