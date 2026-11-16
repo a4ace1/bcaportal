@@ -2,7 +2,8 @@
 
 A dark-themed, terminal-inspired study hub for BCA students — built to make finding notes, resources, and roadmap guidance feel less like digging through scattered PDFs and more like using an actual tool.
 
-🔗 **Live site:** [a4ace1.github.io/a4ace_1](https://a4ace1.github.io/a4ace_1/)
+🔗 **Live site:** [a4ace1.github.io/a4ace_1]
+(https://a4ace1.github.io/bcaportal/) 
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Made with](https://img.shields.io/badge/made%20with-HTML%2FCSS%2FJS-crimson)
